@@ -130,5 +130,247 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 7,
+    "text": "اي تقع الحسكة",
+    "options": [
+      {
+        "text": "مصر",
+        "correct": false
+      },
+      {
+        "text": "سوريا",
+        "correct": true
+      },
+      {
+        "text": "العراق",
+        "correct": false
+      },
+      {
+        "text": "الكويت",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "اين تقع نهر جقجق",
+    "options": [
+      {
+        "text": "سوريا",
+        "correct": true
+      },
+      {
+        "text": "تركيا",
+        "correct": false
+      },
+      {
+        "text": "السعودية",
+        "correct": false
+      },
+      {
+        "text": "لبنان",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "كوردسان تقع بين كم دولة",
+    "options": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": true
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "ما هية عاصمة المانيا",
+    "options": [
+      {
+        "text": "دسلدورف",
+        "correct": false
+      },
+      {
+        "text": "كولن",
+        "correct": false
+      },
+      {
+        "text": "بون",
+        "correct": false
+      },
+      {
+        "text": "برلين",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "اكبر مدينة في العراق",
+    "options": [
+      {
+        "text": "بغداد",
+        "correct": true
+      },
+      {
+        "text": "موصل",
+        "correct": false
+      },
+      {
+        "text": "كركوك",
+        "correct": false
+      },
+      {
+        "text": "ديالا",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "ما هية اكبر كوكب بنظامنا الشمسية",
+    "options": [
+      {
+        "text": "الزهراء",
+        "correct": true
+      },
+      {
+        "text": "بلوتو",
+        "correct": false
+      },
+      {
+        "text": "الارض",
+        "correct": false
+      },
+      {
+        "text": "المريخ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "اين تقع قامشلو",
+    "options": [
+      {
+        "text": "سوريا",
+        "correct": true
+      },
+      {
+        "text": "العراق",
+        "correct": false
+      },
+      {
+        "text": "الصومال",
+        "correct": false
+      },
+      {
+        "text": "السودان",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "من هي الدولة المشهورة باكل الفسيخ",
+    "options": [
+      {
+        "text": "مصر",
+        "correct": true
+      },
+      {
+        "text": "العراق",
+        "correct": false
+      },
+      {
+        "text": "ليبيا",
+        "correct": false
+      },
+      {
+        "text": "قطر",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "كم عدد اصابع الرجل",
+    "options": [
+      {
+        "text": "عشرة",
+        "correct": false
+      },
+      {
+        "text": "سبعة",
+        "correct": false
+      },
+      {
+        "text": "ثمانية",
+        "correct": false
+      },
+      {
+        "text": "خمسة",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "عدد الاحرف الابجدية العربية",
+    "options": [
+      {
+        "text": "30",
+        "correct": false
+      },
+      {
+        "text": "33",
+        "correct": false
+      },
+      {
+        "text": "28",
+        "correct": true
+      },
+      {
+        "text": "27",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "ما هية عاصمة السودان",
+    "options": [
+      {
+        "text": "دمشق",
+        "correct": false
+      },
+      {
+        "text": "بغداد",
+        "correct": false
+      },
+      {
+        "text": "الخرطوم",
+        "correct": true
+      },
+      {
+        "text": "البيجامة",
+        "correct": false
+      }
+    ]
   }
 ]
